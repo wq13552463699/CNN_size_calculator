@@ -1,1 +1,1 @@
-# CNN_size_calculator
+# Small Toy >__<
